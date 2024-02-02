@@ -753,7 +753,7 @@ header .arrow-down {
 /*Start Recipes*/
 .recipes .image {
     height: 350px;
-    background: url("/images/img2.webp") fixed center;
+    background: url("images/img2.webp") fixed center;
     background-size: cover;
 }
 /*End Recipes*/
@@ -828,7 +828,7 @@ header .arrow-down {
 
 /*Start fixed-image*/
 .fixed-image {
-    background: url("/images/2023-create-your-own-pc.jpg") fixed center;
+    background: url("images/2023-create-your-own-pc.jpg") fixed center;
     background-size: cover;
     height: 400px;
 }
@@ -924,7 +924,7 @@ footer .newsletter i {
 
 /*Start Contact Page*/
 .contact-header {
-    background-image: url("/images/vecteezy_night-scene-of-after-rain-city-in-cyberpunk-style_25938797.jpg");
+    background-image: url("images/vecteezy_night-scene-of-after-rain-city-in-cyberpunk-style_25938797.jpg");
     height: 40vh;
 }
 .contact {
